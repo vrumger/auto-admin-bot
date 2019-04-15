@@ -1,0 +1,22 @@
+{
+  "name": "auto-admin-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouTwitFace/auto-admin-bot.git"
+  },
+  "author": "YouTwitFace <contact@lungers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YouTwitFace/auto-admin-bot/issues"
+  },
+  "homepage": "https://github.com/YouTwitFace/auto-admin-bot#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "telegraf": "^3.29.0"
+  }
+}
